@@ -13,8 +13,6 @@ import static java.util.stream.Collectors.toList;
 
 public class CompareTheTriplets2 {
 
-	
-
 	    // Complete the compareTriplets function below.
 	    static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
 	        int xAPoints = 0;
